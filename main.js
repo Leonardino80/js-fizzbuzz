@@ -8,8 +8,8 @@ document.getElementById('fizzy').innerHTML = i;
   i++;
 }
 
-var i = 0
-while (i < 100) {
-document.write (i);
+var y = 0
+while (y < 100) {
+document.write (y);
   i++;
 }
