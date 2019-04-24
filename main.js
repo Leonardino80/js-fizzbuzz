@@ -11,5 +11,5 @@ document.getElementById('fizzy').innerHTML = i;
 var y = 0
 while (y < 100) {
 document.write (y);
-  i++;
+  y++;
 }
